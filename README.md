@@ -164,3 +164,33 @@ Similar a la implementacion HashMap. La diferencia radica en que LinkedHashMap m
 #### java.util - Class ConcurrentHashMap<K,V>
 
 Proporciona una estructura de datos en la que se pueden realizar operaciones conccurrrentes en diferentes segmentos de la estructura sin bloqueos
+
+---
+
+## Clase 02 - 03/04/2025
+
+### POO (Programacion orientada a objetos)
+
+Java es un lenguaje orientado a objetos, porque java abstrae la realidad de cualquier cosa a objeto -> clase: plantilla o modelo sobre como va a ser ese objeto
+
+esta clase va a tener metodos y atributos.
+- Atributos: Son las caracteristicas del objeto/clase.
+- Metodos: Son las funciones que puede desarrollar tal objeto/clase.
+
+Por ejemplo en un auto: Tengo metodos: acelerar, frenar, etc y Propiedades, color: rojo, cant de puertas.
+
+Dentro de la POO existe la herencia y el polimorfismo:
+
+- La herencia me permite crear mas objetos hijos que mantienen las caracteristicas del objeto padre, pero a su vez se podemos agregar mas caracteristicas.
+
+- El polimorfismo nos permite adaptar una clase para que haga tal cosa.
+
+Encapsulamiento: Consiste en ocultar el estado interno de los objetos y proporcionar una interfaz publica (metodos) para acceder y manipular ese estado.
+
+
+Por convencion: 
+Los atributos siempre seran privados, que solo se puedan modificar en la clase
+Los metodos siempre seran publicos
+
+#### Realizamos el ej 11 de la u1 del cuadernillo.
+#### Realizamos el ej 12 de la u1 del cuadernillo.
