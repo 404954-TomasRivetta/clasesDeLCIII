@@ -1,0 +1,129 @@
+Planificación General
+Semana
+Contenidos
+Clases
+
+Semana 1
+
+Unidad 1:
+Introducción a la materia.
+ONBOARDING & SETUP.
+Introducción al lenguaje Java.
+Programa mínimo.
+Apunte teórico: TUP_3C_LCIII_TEO_U1_LenguajeJava. Pag.: 3 a la 11
+Anexo:
+TUP_3C_LCIII_ANEXO_1_Git
+TUP_3C_LCIII_ANEXO_2_JDK
+TUP_3C_LCIII_ANEXO_3_Maven
+
+Semana 2 - 3
+
+Unidad 1:
+Sintaxis de Java.
+Estructuras de control.
+Entrada/Salida estándar.
+Programación Orientada a Objetos.
+Apunte teórico: TUP_3C_LCIII_TEO_U1_LenguajeJava. Pag.: 12 a la 40
+
+Semana 4
+
+Unidad 1:
+Herencia y polimorfismo.
+GIT.
+MAVEN.
+Lanzamineto de TPI
+Apunte teórico: TUP_3C_LCIII_TEO_U1_LenguajeJava. Pag.: 28 a la 40
+Anexo:
+TUP_3C_LCIII_ANEXO_1_Git
+TUP_3C_LCIII_ANEXO_3_Maven
+
+Semana 5
+
+Unidad 2:
+Testing.
+JUnit.
+Apunte teórico: TUP_3C_LCIII_TEO_U2_Testing (Completo)
+Anexo:
+TUP_3C_LCIII_ANEXO_4_JUnit (Completo)
+
+Semana 6
+
+Unidad 3:
+Arreglos, Listas y Colecciones.
+Mapas y Discionarios.
+Patrón "Iterator".
+Apunte teórico: TUP_3C_LCIII_TEO_U3_Colecciones (Completo)
+Anexo:
+TUP_3C_LCIII_ANEXO_5_Patrones
+
+Semana 7
+
+Unidad 4:
+Patrón "Singleton".
+Patrón "Strategy".
+Patrón "Template Method".
+Anexo:
+TUP_3C_LCIII_ANEXO_5_Patrones
+
+Semana 8
+
+Ejercicio + Repaso Primer Parcial
+Unidad 1, 2, 3 y 4
+
+Semana 9
+
+Primer Parcial
+Unidad 1, 2, 3 y 4
+
+Semana 10
+
+Unidad 5:
+Microservicios.
+APIs with Spring Boot.
+Patrón "MVC".
+Apunte teórico: TUP_3C_LCIII_TEO_U5_API_SpringBoot(completo)
+Anexo:
+TUP_3C_LCIII_ANEXO_5_Patrones
+
+Semana 11
+
+Unidad 6:
+Acceso a Datos.
+Patrón "Repository".
+Apunte teórico: TUP_3C_LCIII_TEO_U6_AccesoADatos (completo)
+Anexo:
+TUP_3C_LCIII_ANEXO_5_Patrones
+
+Semana 12
+
+Unidad 7:
+Scaffolding.
+Loggin (Log4j).
+SOLID.
+Apunte teórico: TUP_3C_LCIII_TEO_U7_JavaAdvance ()
+
+Semana 13
+
+Unidad 7:
+Manejo de excepciones.
+Antipatrón "Coding by Exception" y "Exception Handling".
+Generics.
+Apunte teórico: TUP_3C_LCIII_TEO_U7_JavaAdvance ()
+Anexo:
+TUP_3C_LCIII_ANEXO_5_Patrones
+
+Semana 14
+
+Ejercicio + Repaso Segundo Parcial
+Unidad 5, 6 y 7
+
+Semana 15
+
+Segundo Parcial
+Unidad 5, 6 y 7
+
+Semana 16
+
+Recuperatorio Parcial
+Unidad 1, 2, 3, 4, 5, 6 y 7
+(Integrador)

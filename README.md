@@ -194,3 +194,21 @@ Los metodos siempre seran publicos
 
 #### Realizamos el ej 11 de la u1 del cuadernillo.
 #### Realizamos el ej 12 de la u1 del cuadernillo.
+
+---
+
+## Clase 03 - 10/04/2025
+
+POO, la capacidad de java de modelas los objetos de la vida real en 
+
+![Texto de explicacion ocn interface](image.png)
+
+### Repaso de Git y Maven
+
+git init : Inicializa un directorio como carpeta raiz de un repositorio
+
+- el archivo .git : va guardando el hustorial de cambios que vamos realizando en el repositorio
+- el arhivo .gitignore : nos permite colocar que carpetas queremos que no se suban al repositorio
+
+git status : ver estado de los archivos
+git commit : mensaje que va a tener los archivos qeu subamos
