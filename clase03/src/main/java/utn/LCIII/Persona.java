@@ -35,7 +35,6 @@ public class Persona {
         else{
             System.out.println("Es menor de edad");
         }
-
     }
 
     @Override
